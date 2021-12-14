@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @feinxcookies
+- 👀 I’m currently a mechatronics student looking to improve my coding skills beyond what my courses teach me
+- 🌱 I’m currently learning non-linear control systems 😨 and c++
+- 📫 How to reach me: Email: liamgarde.lg@gmail.com
