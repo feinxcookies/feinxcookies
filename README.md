@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Liam or @feinxcookies
-- 👀 I’m currently a mechatronics student looking to improve my coding skills beyond what my courses teach me
-- 🌱 I’m currently learning non-linear control systems and c++
+- 👀 I’m currently a 4th yr mechatronics student and dev 
+- 🌱 c++,matlab, controls systems, react, js
 - 📫 How to reach me: Email: liamgarde.lg@gmail.com
