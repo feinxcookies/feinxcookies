@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Liam or @feinxcookies
-- 👀 I’m currently a 4th yr mechatronics student and dev 
+- 👀 I’m a mechatronics engineer interested in SLAM and software
 - 🌱 c++,matlab, controls systems, react, js
 - 📫 How to reach me: Email: liamgarde.lg@gmail.com
